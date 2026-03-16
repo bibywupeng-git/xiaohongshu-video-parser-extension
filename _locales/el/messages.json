@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Xiaohongshu Video Parser"
+  },
+  "appDesc": {
+    "message": "Μια απλή επέκταση περιηγητή για την ανάλυση και επεξεργασία URL βίντεο Xiaohongshu."
+  }
+}

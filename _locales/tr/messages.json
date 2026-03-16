@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Xiaohongshu Video Parser"
+  },
+  "appDesc": {
+    "message": "Xiaohongshu video URL'lerini ayrıştırmak ve işlemek için basit bir tarayıcı uzantısı."
+  }
+}

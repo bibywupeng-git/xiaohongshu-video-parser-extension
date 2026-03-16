@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Xiaohongshu Video Parser"
+  },
+  "appDesc": {
+    "message": "Une extension de navigateur simple pour analyser et gérer les URL de vidéos Xiaohongshu."
+  }
+}
