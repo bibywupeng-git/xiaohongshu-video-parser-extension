@@ -1,5 +1,5 @@
 const PLATFORMS = {
-  weibo: {
+  xiaohongshu: {
     name: 'xiaohongshu',
     displayName: 'Xiaohongshu',
     domains: ['xiaohongshu.com'],
