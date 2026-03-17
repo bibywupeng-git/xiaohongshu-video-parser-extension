@@ -1,6 +1,7 @@
 # Xiaohongshu Video Parser Extension (Chrome)
 
 A lightweight, open-source Chrome extension that helps users send Xiaohongshu video page URLs to GrabClip for link analysis, parsed result viewing, and optional watermark-free video download.
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/xiaohongshu-video-parser/gjmfhcacjdcdohchonnhhigohehioikg)
 
 This project is designed with a minimal architecture and a clear separation between the browser extension and the web-based processing workflow.
 
